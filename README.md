@@ -19,3 +19,4 @@ The service checks against the following rules:
 > -Must not contain any sequence of characters immediately followed by the same sequence.
 
 
+Copyright (c) 2016
