@@ -27,5 +27,6 @@ The service checks against the following rules:
 
 > -Must not contain any sequence of characters immediately followed by the same sequence.
 
+The test file shows more example of positive and negative cases.
 
 Copyright (c) 2016
